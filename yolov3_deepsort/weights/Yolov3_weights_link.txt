@@ -1,0 +1,11 @@
+weight
+	: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVRJUXd0Z3hVMEFEaEIwanEtTGRmWG5jVm9XZ3xBQ3Jtc0tsMGpkNVNvem9XX09mX3lJM05ldE9MaDQ4aWt6dDNOcFFNbER6aTc2bkZsendjYThFMllRVC0zRmNtd1VENnZJcDNYZWtSRjRUU0R5bEREeWFpU2UxRE5qM25ocjN3dWZWVzl5TGxMc3ZadmNmMloyUQ&q=https%3A%2F%2Fpjreddie.com%2Fmedia%2Ffiles%2Fyolov3.weights&v=zi-62z-3c4U
+
+
+tiny weight
+	:https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUxkLWNZVEhQemNTcERkR0RNcF9kZDQtaEM1QXxBQ3Jtc0tuV0VrYzdra0NLLTdpczRnekxRTWZuUjAyTGZIajAzQXNuUGVwOTlHMEFIdmJZLWZPbldoNjc4TDlMX0M3RUgwampCRmtObHFyMGhkaFlVQjU1V016XzF0cTdBUGNGVGthX2ZQdW9LSlZEckFHSF9jQQ&q=https%3A%2F%2Fpjreddie.com%2Fmedia%2Ffiles%2Fyolov3-tiny.weights&v=zi-62z-3c4U
+
+
+다운받은 뒤
+
+터미널에서 상위폴더의 convert.py 실행
